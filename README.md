@@ -3,7 +3,7 @@
 RU: Это инструкция по аренде серверов в clore.ai и подключению арендованной удаленной mlnode к gonka.ai.  
 EN: This is a guide for renting servers on clore.ai and connecting a rented remote mlnode to gonka.ai.
 
-RU: Для работы нужна зарегистрированная и активная network node (participant).  
+RU: Для работы нужна зарегистрированная и активная network node (participant).  И минимум 2x 3090/4090/5090 или сборка с >40 Gb VRAM
 EN: You must have a registered and active network node (participant).
 
 This README is a practical checklist for running Gonka mlnode in a single-container clore.ai order (no docker-compose).
