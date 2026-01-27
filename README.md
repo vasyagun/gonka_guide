@@ -131,6 +131,12 @@ VLLM_COMPAT_SERVER=0
 - DO NOT enable "Use SSH Autoinstall entrypoint" (post14 includes its own SSH server).
 - Startup script: not required for these images.
 
+<img width="1496" height="198" alt="2026-01-23_13-28-22" src="https://github.com/user-attachments/assets/bd3c0c61-4b8e-4039-ac84-8b9182c39102" />
+
+<img width="544" height="618" alt="2026-01-21_09-51-09 (2)" src="https://github.com/user-attachments/assets/6a5e4b01-8f57-4341-a168-592500edb969" />
+
+
+
 ## 5) How to check the node
 
 Recommended flow:
